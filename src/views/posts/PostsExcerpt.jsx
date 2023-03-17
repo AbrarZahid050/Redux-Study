@@ -2,8 +2,6 @@ import PostAuthor from "./PostAuthor";
 import TimeAgo from "./TimeAgo";
 import ReactionBtns from "./ReactionBtns";
 
-import React from "react";
-
 const PostsExcerpt = ({ post }) => {
   return (
     <article>
