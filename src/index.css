@@ -35,7 +35,7 @@ article {
 }
 
 input[type="checkbox"] {
-  min-width: 30px;
+  width: 150px;
   min-height: 30px;
   margin-right: 1rem;
 }
